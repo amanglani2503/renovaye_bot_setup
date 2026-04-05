@@ -4,6 +4,7 @@
     "config:recommended"
   ],
   "assignees": ["amanglani2503"],
+  "timezone": "Asia/Kolkata",
   "description": "Run between 5 PM and 7 PM",
   "schedule": ["* 18 * * *"]
 }
