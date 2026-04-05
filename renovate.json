@@ -2,5 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
-  ]
+  ],
+  "assignees": ["amanglani2503"],
+  "schedule": ["after 4:15pm and before 4:30pm"]
 }
