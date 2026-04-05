@@ -5,5 +5,5 @@
   ],
   "assignees": ["amanglani2503"],
   "description": "Run between 5 PM and 7 PM",
-  "schedule": ["* 17-18 * * *"]
+  "schedule": ["* 18 * * *"]
 }
