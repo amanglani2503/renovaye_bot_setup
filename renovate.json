@@ -4,5 +4,6 @@
     "config:recommended"
   ],
   "assignees": ["amanglani2503"],
-  "schedule": ["after 5pm and before 5:30pm"]
+  "description": "Run between 5 PM and 7 PM",
+  "schedule": ["* 17-18 * * *"]
 }
